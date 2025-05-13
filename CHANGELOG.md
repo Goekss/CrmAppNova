@@ -19,3 +19,5 @@
 
 - [2025-05-08 16:35:40] feat(telephony): voip sip dialer integration with call transcription
 
+- [2025-05-13 11:15:20] feat(leads): automatic domain enrichment and lead qualification bot
+
