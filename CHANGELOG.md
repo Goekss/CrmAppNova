@@ -31,3 +31,5 @@
 
 - [2025-05-16 16:35:40] fix(pipeline): prevent duplicate deal cards during concurrent socket drag
 
+- [2025-05-19 11:15:20] fix(auth): rotate oauth2 refresh tokens and enforce mfa challenge
+
