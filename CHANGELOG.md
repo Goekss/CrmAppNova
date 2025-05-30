@@ -59,3 +59,5 @@
 
 - [2025-05-29 18:15:45] feat(automation): no-code visual workflow builder for sales triggers
 
+- [2025-05-30 09:10:15] feat(pipeline): real-time collaborative kanban board with websockets
+
