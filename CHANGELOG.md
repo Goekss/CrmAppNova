@@ -73,3 +73,5 @@
 
 - [2025-06-05 09:40:12] feat(mobile): progressive web app offline sync and local db cache
 
+- [2025-06-05 14:15:30] feat(integrations): zapier and make.com bidirectional webhook connectors
+
