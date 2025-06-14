@@ -83,3 +83,5 @@
 
 - [2025-06-13 11:15:20] refactor(api): migrate customer microservice endpoints to graphql federation
 
+- [2025-06-14 09:40:12] refactor(db): partition high-frequency activity timeline table by tenant
+
