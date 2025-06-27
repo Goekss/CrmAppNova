@@ -109,3 +109,5 @@
 
 - [2025-06-24 16:35:40] feat(pipeline): real-time collaborative kanban board with websockets
 
+- [2025-06-27 11:15:20] feat(billing): multi-tenant billing, stripe subscriptions and metering
+
