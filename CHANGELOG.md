@@ -117,3 +117,5 @@
 
 - [2025-07-02 18:20:10] feat(leads): automatic domain enrichment and lead qualification bot
 
+- [2025-07-03 09:25:10] feat(security): zero-trust role-based access control and audit stream
+
