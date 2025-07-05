@@ -133,3 +133,5 @@
 
 - [2025-07-05 09:40:12] refactor(db): partition high-frequency activity timeline table by tenant
 
+- [2025-07-05 14:15:30] perf(cache): multi-tier redis and dragonfly distributed cache sync
+
