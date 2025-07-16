@@ -151,3 +151,5 @@
 
 - [2025-07-11 16:35:40] feat(ai-insights): predictive deal closing probabilities with ml model
 
+- [2025-07-16 10:20:15] feat(omni-channel): unified whatsapp, email, and livechat ticket hub
+
