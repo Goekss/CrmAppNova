@@ -153,3 +153,5 @@
 
 - [2025-07-16 10:20:15] feat(omni-channel): unified whatsapp, email, and livechat ticket hub
 
+- [2025-07-16 16:35:40] feat(automation): no-code visual workflow builder for sales triggers
+
