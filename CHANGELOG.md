@@ -185,3 +185,5 @@
 
 - [2025-07-26 12:15:35] perf(query): optimize recursive account hierarchy traversal query
 
+- [2025-07-26 14:45:10] style(ui): modern glassmorphism ui theme with dynamic dark mode accents
+
