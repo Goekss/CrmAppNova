@@ -193,3 +193,5 @@
 
 - [2025-07-31 09:40:12] test(workflow): unit tests for branched conditional trigger actions
 
+- [2025-07-31 14:15:30] docs: comprehensive openapi 3.1 specification and sdk client docs
+
