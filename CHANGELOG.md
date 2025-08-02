@@ -207,3 +207,5 @@
 
 - [2025-08-02 14:15:30] feat(billing): multi-tenant billing, stripe subscriptions and metering
 
+- [2025-08-02 18:20:10] feat(analytics): executive bi dashboard with cohort retention metrics
+
