@@ -225,3 +225,5 @@
 
 - [2025-08-15 10:20:15] fix(auth): rotate oauth2 refresh tokens and enforce mfa challenge
 
+- [2025-08-15 16:35:40] refactor(api): migrate customer microservice endpoints to graphql federation
+
