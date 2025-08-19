@@ -235,3 +235,5 @@
 
 - [2025-08-19 14:15:30] style(ui): modern glassmorphism ui theme with dynamic dark mode accents
 
+- [2025-08-19 18:20:10] style(board): refine drag-drop physics and micro-animations on deals
+
