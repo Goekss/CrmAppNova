@@ -269,3 +269,5 @@
 
 - [2025-08-28 14:15:30] fix(ai-insights): correct inference latency on streaming forecast tokens
 
+- [2025-08-28 18:20:10] fix(pipeline): prevent duplicate deal cards during concurrent socket drag
+
