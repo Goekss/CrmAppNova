@@ -279,3 +279,5 @@
 
 - [2025-08-31 09:40:12] perf(cache): multi-tier redis and dragonfly distributed cache sync
 
+- [2025-08-31 14:15:30] perf(query): optimize recursive account hierarchy traversal query
+
