@@ -363,3 +363,5 @@
 
 - [2025-10-11 18:15:45] feat(integrations): zapier and make.com bidirectional webhook connectors
 
+- [2025-10-15 11:15:20] fix(ai-insights): correct inference latency on streaming forecast tokens
+
