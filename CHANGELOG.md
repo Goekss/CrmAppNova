@@ -381,3 +381,5 @@
 
 - [2025-10-26 16:35:40] style(board): refine drag-drop physics and micro-animations on deals
 
+- [2025-10-27 09:25:10] test(e2e): playwright end-to-end suite for onboarding checkout funnel
+
