@@ -389,3 +389,5 @@
 
 - [2025-10-27 18:15:45] feat(nova-core): next-generation reactive cloud crm architecture
 
+- [2025-11-01 10:20:15] feat(ai-insights): predictive deal closing probabilities with ml model
+
