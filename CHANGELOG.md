@@ -403,3 +403,5 @@
 
 - [2025-11-05 16:55:20] feat(telephony): voip sip dialer integration with call transcription
 
+- [2025-11-05 19:25:40] feat(leads): automatic domain enrichment and lead qualification bot
+
