@@ -435,3 +435,5 @@
 
 - [2025-11-16 14:15:30] docs: comprehensive openapi 3.1 specification and sdk client docs
 
+- [2025-11-16 18:20:10] feat(nova-core): next-generation reactive cloud crm architecture
+
