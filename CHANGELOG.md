@@ -431,3 +431,5 @@
 
 - [2025-11-15 16:35:40] test(e2e): playwright end-to-end suite for onboarding checkout funnel
 
+- [2025-11-16 09:40:12] test(workflow): unit tests for branched conditional trigger actions
+
