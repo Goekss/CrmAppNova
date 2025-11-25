@@ -455,3 +455,5 @@
 
 - [2025-11-25 10:20:15] feat(security): zero-trust role-based access control and audit stream
 
+- [2025-11-25 16:35:40] feat(mobile): progressive web app offline sync and local db cache
+
