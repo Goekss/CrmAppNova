@@ -499,3 +499,5 @@
 
 - [2025-12-13 09:25:10] feat(telephony): voip sip dialer integration with call transcription
 
+- [2025-12-13 11:45:20] feat(leads): automatic domain enrichment and lead qualification bot
+
