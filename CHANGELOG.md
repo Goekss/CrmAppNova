@@ -545,3 +545,5 @@
 
 - [2025-12-30 14:15:30] feat(analytics): executive bi dashboard with cohort retention metrics
 
+- [2025-12-30 18:20:10] feat(telephony): voip sip dialer integration with call transcription
+
