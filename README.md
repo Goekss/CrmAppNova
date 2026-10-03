@@ -19,7 +19,7 @@ die sowohl im professionellen als auch im schulischen Umfeld eingesetzt werden k
 ---
 
 ## 🔗 Verknüpftes Projekt
-- [CrmAPP (Backend)](https://github.com/Daddarios/CrmAPP) – Die API, mit der Vista verbunden ist
+- [CrmAPP (Backend)](https://github.com/Goekss/CrmAPP) – Die API, mit der Vista verbunden ist
 
 ---
 
